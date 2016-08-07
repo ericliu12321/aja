@@ -1,0 +1,3 @@
+The title of the song is: Music
+The artist of the song is: Eric Liu
+The genre of the song is: Classical
